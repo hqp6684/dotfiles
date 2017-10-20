@@ -1,0 +1,26 @@
+XTerm*Background:Black
+XTerm*Foreground:White
+XTerm*saveLines:1000
+XTerm*HiForeColor: white
+XTerm*HiBackColor: #c06077
+XTerm*geometry: 92x50
+
+xterm*font: -misc-fixed-medium-r-normal--20-200-75-75-c-100-iso8859-1
+
+XTerm*renderFont: true
+XTerm*faceName: VeraMono
+XTerm*faceSize: 13
+
+
+xterm*loginShell: true
+xterm*scrollBar: true
+xterm*rightScrollBar: true
+xterm*title: XTerm
+xterm*iconName: XTerm
+xterm*saveLines: 50000
+xterm*jumpScroll: true
+xterm*scrollTtyOutput: false
+xterm*scrollKey: true
+xterm*alwaysUseMods: true
+xterm*metaSendsEscape: true
+xterm*utf8Title: true
